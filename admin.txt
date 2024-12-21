@@ -1,0 +1,1 @@
+admin can enter user data to the database
